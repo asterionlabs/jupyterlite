@@ -27,7 +27,7 @@ jupyterlab-geojson>=3.4.0,<4
 # JupyterLab: dark theme
 jupyterlab-night
 # JupyterLab: Monokai theme
-theme-dark-monokai
+jupyterlab-monokai
 # JupyterLab: Miami nights theme (optional)
 jupyterlab_miami_nights
 
